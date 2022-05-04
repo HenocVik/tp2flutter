@@ -5,7 +5,7 @@ HONVO Epiphane
 HOUNDO Beaudelaire
 VIAKIN Henoc
 ZOUMENOU Mendez
-AMINTCHI Oscar
+AMINTCHI Oscars
 
 A new Flutter project.
 
